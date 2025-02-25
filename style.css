@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+
+}  
+
+p {
+    font-size: 80px;
+    color: chocolate;
+    border: 12px;
+    margin-top: 10px;
+    margin: 20px;
+}
+
+h1{
+    font-size: 50px;
+    color: brown;
+    margin: 30px;
+}
+
+ul{
+    font-size: 20px;
+    margin: 8px;
+    color: coral;
+}
+
+tr{
+    font-size: 45px;
+    margin: 10px;
+    color: chartreuse;
+}
+
+button{
+    margin: 15px;
+    color: blue;
+}
+
+input{
+    margin: 5px;
+    color: crimson;
+}
